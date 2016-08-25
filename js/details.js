@@ -13,7 +13,7 @@ var Detail = {
 								'<li>Round-Robin방식의 스케줄러를 우선순위 기반 multi-level queue 스케줄러로 전환' +
 								'<li>80x86 calling convention구현' +
 							'</ol>' +
-							'<p><a href="https://www.dropbox.com/sh/5zex04d4dsbt0s4/AABrkU0rDWCD_N1motizK_6oa?dl=0">#link</a></p>'
+							'<p><a href="https://www.dropbox.com/sh/5zex04d4dsbt0s4/AABrkU0rDWCD_N1motizK_6oa?dl=0" target="_blank">#link</a></p>'
 			},  
 			{
 				title: 'Mini shell', 
@@ -104,7 +104,8 @@ var Detail = {
 				description: '<p>AngularJS와 Firebase를 이용하여 제작한 북마크 페이지입니다.</p>' +
 							'<p>AngularJS를 이용하여 싱글 페이지 웹 어플리케이션으로 제작하였습니다.</p>' +
 							'<p>또한 Firebase를 DB로 이용하였습니다.</p>' +
-							'<p>그 외 jQuery와 Bootstrap을 이용하였습니다.</p>'
+							'<p>그 외 jQuery와 Bootstrap을 이용하였습니다.</p>' +
+							'<p><a href="https://github.com/kost0806/kost_bookmark" target="_blank">#link</a></p>'
 			},
 			{
 				title: '웹 어플리케이션 개발 강의 실습',
@@ -119,7 +120,8 @@ var Detail = {
 				description: '<p>현재 사이트 제작에는 주로 jQuery를 사용하여 제작을 하였습니다. 스타일에는 Bootstrap또한 일부 사용하였습니다.</p>' +
 							'<p>jQuery를 사용한 이유로는 단순한 문법적 익숙함과 각종 편의성에 의해 사용하였고 핵심 기능들은 모두 직접 구현하였습니다.</p>' +
 							'<p>페이지 마지막의 &dqout;연락하기&dqout;부분은 Node.js 서버에 ajax 요청을 하여 메일 전송 시도를 하며</p>' +
-							'<p>Node.js에서는 Express를 Framework로 사용하고 nodemailer를 통해서 메일을 보냅니다.</p>'
+							'<p>Node.js에서는 Express를 Framework로 사용하고 nodemailer를 통해서 메일을 보냅니다.</p>' +
+							'<p><a href="https://github.com/kost0806/portfolio" target="_blank">#link</a></p>'
 			},
 			{
 				title: 'AR 음성인식 체스 게임/서버파트',
@@ -151,7 +153,11 @@ var Detail = {
 							'<p>하지만 체스게임을 하는데에는 음성인식의 키워드 풀이 많이 필요하지 않았습니다.</p>' +
 							'<p>A1을 발음하면 비슷하게 오는 단어는 모두 음성인식의 풀에 넣어두고 그 단어들이 오면 A1을 최종 결과로 내놓는 방식을 체택하였습니다.</p>' +
 							'<p>따라서 음성인식 풀을 모을 필요가 있었고 이 어플리케이션은 그것을 위한 어플리케이션이었습니다.</p>' +
-							'<p>구글 음성인식 API를 사용하여 음성인식을 하고 그 결과를 서버에 전송하는 방식이었습니다.</p>'
+							'<p>구글 음성인식 API를 사용하여 음성인식을 하고 그 결과를 서버에 전송하는 방식이었습니다.</p>' +
+							'<img src="image/proj/cp_splash.jpg" alt="splash" width="150">' +
+							'<img src="image/proj/cp_name.jpg" alt="name" width="150">' +
+							'<img src="image/proj/cp_main.jpg" alt="main" width="150">' +
+							'<img src="image/proj/cp_result.jpg" alt="result" width="150">'
 			}, 
 			{
 				title: 'GCM 이용 어플리케이션 제작', 
